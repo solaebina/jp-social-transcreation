@@ -1,0 +1,4 @@
+transcreation-work/
+__pycache__/
+*.pyc
+.DS_Store
